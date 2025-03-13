@@ -47,6 +47,7 @@ Below default keybinds can be changed using the script conf file, or through scr
 - **OSD** (On Screen Display): Displays a proper OSD for the actions preformed through SmartSkip.
 - **More:** This is not all! Explore the conf file to learn more about the possibilities you are missing out...
 </details>
+
 # SmartCopyPaste_II
 Just like SmartCopyPaste but logs your clipboard and makes use of it...
 
@@ -75,6 +76,7 @@ The following are the default keybinds, they can be changed in the conf file of 
 - **OSD:** Displays any SmartCopyPaste_II action within mpv.
 - **More:** This is not all! Explore the conf file to learn more about the possibilities you are missing out...
 </details>
+
 # SimpleHistory
 Stores whatever you open in a history file and abuses it with features! Continue watching your last played or resume previously played videos, manage and play from your history, and more...
 
@@ -103,6 +105,7 @@ The following are the default keybinds, they can be changed in the conf file of 
 - **OSD:** Displays any SimpleHistory action within mpv.
 - **More:** This is not all! Explore the conf file to learn more about the possibilities you are missing out...
 </details>
+
 # UndoRedo
 Undo is not enough to fix your accidental seek? Well now you can redo as well..
 
@@ -123,6 +126,7 @@ The following are the default keybinds, they can be changed in the script or usi
 - **Simple Undo:** Undo accidental time jumps in videos by pressing Simple Undo keybind and press again to return to previous position.
 - **OSD:** Displays any UndoRedo action within mpv.
 </details>
+
 # thumbfast
 High-performance on-the-fly thumbnailer for mpv.
 
