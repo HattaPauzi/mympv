@@ -5,7 +5,7 @@ My personalized mpv scripts that works for both Windows and Linux
 This repo contains several scripts I have gathered to make mpv works for my personal needs. 
 
 **Scripts that available in this repository:**
-[SmartSkip](https://github.com/Eisa01/mpv-scripts#smartskip), [SmartCopyPaste_II](https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii), [SimpleHistory](https://github.com/Eisa01/mpv-scripts#simplehistory),[UndoRedo](https://github.com/Eisa01/mpv-scripts#undoredo), [thumbfast](https://github.com/po5/thumbfast)
+[SmartSkip](https://github.com/Eisa01/mpv-scripts#smartskip), [SmartCopyPaste_II](https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii), [SimpleHistory](https://github.com/Eisa01/mpv-scripts#simplehistory), [UndoRedo](https://github.com/Eisa01/mpv-scripts#undoredo), [thumbfast](https://github.com/po5/thumbfast)
 
 # SmartSkip
 You think Netflix is good at binge-watching? Yes, it is.. :) But give SmartSkip a try!
