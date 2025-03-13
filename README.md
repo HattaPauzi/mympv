@@ -35,7 +35,7 @@ Below default keybinds can be changed using the script conf file, or through scr
 | `ctrl+n`                        | write-chapters                    | jumps to the previous available filter based on configured filters       |
 | `alt+s` / `alt+S`                  | edit-chapter                     | Renames the current chapter (requires [user-input-module](https://github.com/CogentRedTester/mpv-user-input) )     |
 | ` `                              | bake-chapters                   | Merge the changes of chapters for the file inside mkv file                |
-</details>
+
 ### Main Features
 - **Smart Next / Prev:** Automatically triggers Skip to Silence, Chapter Next/ Prev, or Playlist Next/ Prev based on configurable parameters.
 - **Skip to Silence:** If the file you are watching is not chaptered, skipping to silence will attempt to skip the intro and outro by finding the silence in the file (optionally: chapter automatically created).
@@ -46,7 +46,7 @@ Below default keybinds can be changed using the script conf file, or through scr
 - **Customization:** Tons of user customizable settings that can even change the behavior and priority of smart-next, smart-prev, auto-skip, and more!
 - **OSD** (On Screen Display): Displays a proper OSD for the actions preformed through SmartSkip.
 - **More:** This is not all! Explore the conf file to learn more about the possibilities you are missing out...
-
+</details>
 # SmartCopyPaste_II
 Just like SmartCopyPaste but logs your clipboard and makes use of it...
 
@@ -63,7 +63,7 @@ The following are the default keybinds, they can be changed in the conf file of 
 | `ctrl+alt+c` / `ctrl+alt+C` / `meta+alt+c` / `meta+alt+C`                        | copy-specific           | copies the file path without the reached time or based on the configured specific copy behavior.  |
 | `ctrl+alt+v` / `ctrl+alt+V` / `meta+alt+v` / `meta+alt+V`                            | paste-specific                        | pastes and appends the video file into playlist or based on the configured specific paste behavior.                                                                             |
 | `c` / `C`                            | open-list                               | opens Clipboard list [(LogManager)](https://github.com/Eisa01/mpv-scripts#logmanager)                                               |
-</details>
+
 ### Main Features
 - **Copy and Paste:** Adds copy and paste to mpv for any file, like (urls, torrents, images, subtitles, audio files, video paths)
 - **Multi-Paste:** Capability to paste a list of supported items seperated by new line to generate a playlist and conduct different actions depending on the files pasted.
@@ -74,7 +74,7 @@ The following are the default keybinds, they can be changed in the conf file of 
 - **Customization:** Tons of user customizable settings that can even change the behavior and priority of copy and paste actions, as well as everything about LogManager.
 - **OSD:** Displays any SmartCopyPaste_II action within mpv.
 - **More:** This is not all! Explore the conf file to learn more about the possibilities you are missing out...
-
+</details>
 # SimpleHistory
 Stores whatever you open in a history file and abuses it with features! Continue watching your last played or resume previously played videos, manage and play from your history, and more...
 
@@ -91,7 +91,7 @@ The following are the default keybinds, they can be changed in the conf file of 
 | `ctrl+H`                         | history-incognito-mode           | Triggeres a customizable incognito mode that stops saving history. To resume saving history press `ctrl+H` again |
 | `h` / `H`                            | open-list                        | opens History list [(LogManager)](https://github.com/Eisa01/mpv-scripts#logmanager)                                                                             |
 | `r` / `R`                            | *NA*                               | opens History list - filtered with recent items [(LogManager)](https://github.com/Eisa01/mpv-scripts#logmanager)                                                |
-</details>
+
 ### Main Features
 - **Last Played:** Immediately jumps to your last played video so you continue watching
 - **Video Resume:** It saves the position of all videos you are watching so you can easily resume
@@ -102,7 +102,7 @@ The following are the default keybinds, they can be changed in the conf file of 
 - **Customization:** Tons of user customizable settings, you can change almost everything. Hate the resume notification? Then just disable it. Hate recents list automatically loading? Then just disable it, and so on so forth...
 - **OSD:** Displays any SimpleHistory action within mpv.
 - **More:** This is not all! Explore the conf file to learn more about the possibilities you are missing out...
-
+</details>
 # UndoRedo
 Undo is not enough to fix your accidental seek? Well now you can redo as well..
 
@@ -117,12 +117,12 @@ The following are the default keybinds, they can be changed in the script or usi
 | `ctrl+z` / `ctrl+Z`                | undo / undoCaps                  | undo by returning to previous time.                                      |
 | `ctrl+y` / `ctrl+Y`                | redo / redoCaps                  | redo by restoring the undo time.                                    |
 | `ctrl+alt+z` / `ctrl+alt+Z`       | undoLoop / undoLoopCaps          | undo accidental seek by returning to previous time and vise-versa. |
-</details>
+
 ### Main Features
 - **Undo and Redo:** Undo any accident time jumps in the video by pressing the undo keybind and redo the jumps by pressing the redo keybind.
 - **Simple Undo:** Undo accidental time jumps in videos by pressing Simple Undo keybind and press again to return to previous position.
 - **OSD:** Displays any UndoRedo action within mpv.
-
+</details>
 # thumbfast
 High-performance on-the-fly thumbnailer for mpv.
 
