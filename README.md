@@ -37,7 +37,7 @@ Below default keybinds can be changed using the script conf file, or through scr
 | ` `                              | bake-chapters                   | Merge the changes of chapters for the file inside mkv file                |
 </details>
 ### Main Features
-* **Smart Next / Prev:** Automatically triggers Skip to Silence, Chapter Next/ Prev, or Playlist Next/ Prev based on configurable parameters.
+- **Smart Next / Prev:** Automatically triggers Skip to Silence, Chapter Next/ Prev, or Playlist Next/ Prev based on configurable parameters.
 - **Skip to Silence:** If the file you are watching is not chaptered, skipping to silence will attempt to skip the intro and outro by finding the silence in the file (optionally: chapter automatically created).
 - **Auto Skip**: If the file you are watching has organized chapters, any opening, ending sound can be automatically skipped after your **preferred countdown** time.
 - **Chapters Modification:** Create, remove, edit chapters,  and then save changes into an external file or bake them into the mkv file.
