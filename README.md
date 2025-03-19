@@ -9,9 +9,9 @@ This repo contains several scripts that I have gathered to make mpv works best f
 # Installation
 [Official MPV installation guide](https://mpv.io/installation/)
 
-**Windows: **copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on %APPDATA%/mpv/. 
+**Windows:** copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on %APPDATA%/mpv/. 
 
-**Linux**: **copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on ~/.config/mpv/.
+**Linux**:** copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on ~/.config/mpv/.
 If there is none, create one.
 
 **IMPORTANT NOTE**
