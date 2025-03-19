@@ -7,10 +7,13 @@ This repo contains several scripts that I have gathered to make mpv works best f
 [SmartSkip](https://github.com/Eisa01/mpv-scripts#smartskip), [SmartCopyPaste_II](https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii), [SimpleHistory](https://github.com/Eisa01/mpv-scripts#simplehistory), [UndoRedo](https://github.com/Eisa01/mpv-scripts#undoredo), [thumbfast](https://github.com/po5/thumbfast)
 
 # Installation
-[Official MPV installation guide](https://mpv.io/installation/)
-
-**Windows:** copy both ['scripts-opts'](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and ['scripts'](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on %APPDATA%/mpv/.\
-**Linux:** copy both ['scripts-opts'](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and ['scripts'](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on ~/.config/mpv/.\
+[Official mpv installation site](https://mpv.io/installation/)\
+To download the configuration files, execute the following commands in your terminal:
+'''sh
+git clone https://github.com/HattaPauzi/mympv.git
+'''
+**Windows:** copy both 'scripts-opts' and 'scripts', paste it on %APPDATA%/mpv/\
+**Linux:** copy both 'scripts-opts' and 'scripts', paste it on ~/.config/mpv/\
 If there is none, create one.
 
 **IMPORTANT NOTE**\
