@@ -9,8 +9,8 @@ This repo contains several scripts that I have gathered to make mpv works best f
 # Installation
 [Official MPV installation guide](https://mpv.io/installation/)
 
-**Windows:** copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on %APPDATA%/mpv/.\
-**Linux:** copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on ~/.config/mpv/.\
+**Windows:** copy both ['scripts-opts'](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and ['scripts'](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on %APPDATA%/mpv/.\
+**Linux:** copy both ['scripts-opts'](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and ['scripts'](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on ~/.config/mpv/.\
 If there is none, create one.
 
 **IMPORTANT NOTE**\
@@ -145,7 +145,7 @@ High-performance on-the-fly thumbnailer for mpv.
 [Preview of thumbfast on different UIs](https://user-images.githubusercontent.com/42466980/199102896-65f9e989-4189-4734-82a7-bda8ee63c7a6.webm)
 
 ## Installation of thumbfast
-For the vanilla UI(REQUIREMENT), you also have to install [osc.lua](https://github.com/po5/thumbfast/blob/vanilla-osc/player/lua/osc.lua) (identical to the mpv default, with added thumbfast support) into your `scripts` folder.
+For the vanilla UI, you also have to install [osc.lua](https://github.com/po5/thumbfast/blob/vanilla-osc/player/lua/osc.lua) (identical to the mpv default, with added thumbfast support) into your `scripts` folder.
 
 ### Main Features
 No dependencies, no background thumbnail generation hogging your CPU.  
