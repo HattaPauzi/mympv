@@ -10,9 +10,9 @@ This repo contains several scripts that I have gathered to make mpv works best f
 [Official mpv installation site](https://mpv.io/installation/)\
 To download the configuration files, execute the following commands in your terminal:
 
-'''sh
+```sh
 git clone https://github.com/HattaPauzi/mympv.git
-'''
+```
 
 **Windows:** copy both 'scripts-opts' and 'scripts', paste it on %APPDATA%/mpv/\
 **Linux:** copy both 'scripts-opts' and 'scripts', paste it on ~/.config/mpv/\
