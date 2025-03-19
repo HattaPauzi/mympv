@@ -2,10 +2,19 @@
 My personalized mpv scripts that works for both Windows and Linux
 
 # Introduction
-This repo contains several scripts I have gathered to make mpv works for my personal needs. 
-
+This repo contains several scripts that I have gathered to make mpv works best for my personal needs. 
 **Scripts that available in this repository:**
 [SmartSkip](https://github.com/Eisa01/mpv-scripts#smartskip), [SmartCopyPaste_II](https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii), [SimpleHistory](https://github.com/Eisa01/mpv-scripts#simplehistory), [UndoRedo](https://github.com/Eisa01/mpv-scripts#undoredo), [thumbfast](https://github.com/po5/thumbfast)
+
+# Installation
+[Official MPV installation guide](https://mpv.io/installation/)
+**Windows: **copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on %APPDATA%/mpv/. 
+**Linux**: **copy both [scripts-opts](https://github.com/HattaPauzi/mympv/tree/main/script-opts) and [scripts](https://github.com/HattaPauzi/mympv/tree/main/scripts) and paste it on ~/.config/mpv/.
+If there is none, create one.
+
+**IMPORTANT NOTE**
+On Windows, make sure to install the MPV on the latest version. On my system, using [mpv-x86_64-windows-msvc](https://nightly.link/mpv-player/mpv/workflows/build/master/mpv-x86_64-windows-msvc.zip) from [First-party builds by GitHub CI (latest commit)](https://nightly.link/mpv-player/mpv/workflows/build/master) works flawlessly.
+To make the downloaded portable mpv works on PowerShell, make sure to copy its executable directory and paste it on the PATH environments.
 
 # SmartSkip
 You think Netflix is good at binge-watching? Yes, it is.. :) But give SmartSkip a try!
