@@ -19,7 +19,7 @@ git clone https://github.com/HattaPauzi/mympv.git
 If there is none, create one.
 
 **IMPORTANT NOTE**\
-On Windows, make sure to install the latest MPV version. On my system, using [mpv-x86_64-windows-msvc](https://nightly.link/mpv-player/mpv/workflows/build/master/mpv-x86_64-windows-msvc.zip) from [First-party builds by GitHub CI (latest commit)](https://nightly.link/mpv-player/mpv/workflows/build/master) works flawlessly.
+On Windows, make sure to install the latest mpv version. On my system, using [mpv-x86_64-windows-msvc](https://nightly.link/mpv-player/mpv/workflows/build/master/mpv-x86_64-windows-msvc.zip) from [First-party builds by GitHub CI (latest commit)](https://nightly.link/mpv-player/mpv/workflows/build/master) works flawlessly.
 To make the downloaded portable mpv works on PowerShell, make sure to copy its executable directory and paste it on the PATH environments.
 
 # SmartSkip
