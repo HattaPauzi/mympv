@@ -8,7 +8,7 @@ This repo contains several scripts that I have gathered to make mpv works best f
 
 # Installation
 [Official mpv installation site](https://mpv.io/installation/)\
-To download the configuration files, execute the following commands in your terminal:
+To download the configuration files, execute the following commands in your terminal:\
 '''sh
 git clone https://github.com/HattaPauzi/mympv.git
 '''
