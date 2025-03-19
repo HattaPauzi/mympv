@@ -147,7 +147,7 @@ High-performance on-the-fly thumbnailer for mpv.
 
 **The script does not display thumbnails on its own,** it is meant to be used alongside a UI script that calls thumbfast.
 
-[Preview of thumbfast on different UIs](https://user-images.githubusercontent.com/42466980/199102896-65f9e989-4189-4734-82a7-bda8ee63c7a6.webm)
+![Preview of thumbfast on different UIs](https://user-images.githubusercontent.com/42466980/199102896-65f9e989-4189-4734-82a7-bda8ee63c7a6.webm)
 
 ## Installation of thumbfast
 For the vanilla UI, you also have to install [osc.lua](https://github.com/po5/thumbfast/blob/vanilla-osc/player/lua/osc.lua) (identical to the mpv default, with added thumbfast support) into your `scripts` folder.
