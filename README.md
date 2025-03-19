@@ -1,5 +1,5 @@
 # mympv
-My personalized mpv scripts that works for both Windows and Linux
+My personalized mpv scripts that works for both Windows and Linux platform
 
 # Introduction
 This repo contains several scripts that I have gathered to make mpv works best for my personal needs. 
